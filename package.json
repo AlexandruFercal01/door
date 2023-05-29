@@ -1,5 +1,5 @@
 {
-  "name": "door_project",
+  "name": "door",
   "version": "0.1.0",
   "homepage": "https://AlexandruFercal01.github.io/door",
   "private": true,
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "door_project -d build",
+    "deploy": "door -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
