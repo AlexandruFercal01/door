@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/door/static/css/main.8e38db9b.css",
+    "main.js": "/door/static/js/main.47dd5c00.js",
+    "static/js/787.92732913.chunk.js": "/door/static/js/787.92732913.chunk.js",
+    "index.html": "/door/index.html",
+    "main.8e38db9b.css.map": "/door/static/css/main.8e38db9b.css.map",
+    "main.47dd5c00.js.map": "/door/static/js/main.47dd5c00.js.map",
+    "787.92732913.chunk.js.map": "/door/static/js/787.92732913.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e38db9b.css",
+    "static/js/main.47dd5c00.js"
+  ]
+}
